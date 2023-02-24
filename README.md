@@ -1,3 +1,3 @@
 # Mariana-Newsletter
 
-Projeto feito com o framework Tailwind CSS.
+Projeto feito com o framework Tailwind CSS dentro do HTML.
